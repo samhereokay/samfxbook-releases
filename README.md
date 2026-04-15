@@ -8,7 +8,7 @@ This repository hosts the stable binaries and installation guides for our multi-
 
 ### 1. Android (Direct APK)
 The Android terminal provides high-performance synchronization with institutional data feeds.
-*   **Download**: [terminal.apk (v1.0.0)](./terminal.apk)
+*   **Download**: [SAMFXBOOK.apk (v1.0.0)](./SAMFXBOOK.apk)
 *   **How to Install**:
     1. Download the `.apk` file directly to your device.
     2. Open your device **Settings** > **Security**.
